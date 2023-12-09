@@ -1,0 +1,11 @@
+{
+  "name": "minebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "elvin.js",
+  "scripts": {
+    "start": "node elvin.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
